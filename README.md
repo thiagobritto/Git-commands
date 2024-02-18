@@ -3,6 +3,9 @@
 ```sh
 git add --all
 git commit -m "commit"
+git push origin <branch | tag>
+git pull
+git status
 git log
 git log --oneline
 git branch <new branch>
