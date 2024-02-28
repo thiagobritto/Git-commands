@@ -1,6 +1,6 @@
 # Git-commands
 
-```sh
+```bash
 git add --all
 git commit -m "commit"
 git push origin <branch | tag>
